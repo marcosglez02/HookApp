@@ -1,0 +1,10 @@
+body{
+    padding: 20px;
+}
+button{
+    margin-right: 15px;
+    border: 1px grey solid;
+}
+a{
+    margin-right: 5px;
+}
